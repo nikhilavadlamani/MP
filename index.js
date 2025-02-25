@@ -141,6 +141,7 @@ const myDetails = {
     education: "B.Tech in Electronics and Communication Engineering",
     skills: ["JavaScript", "Python", "C", "Electronics Circuit Design", "Embedded Systems"],
     contact: "your.email@example.com",
+    Phone No:- "+1 3304123013"
     socialLinks: {
         linkedin: "https://www.linkedin.com/in/satyamouli",
         github: "https://github.com/yourgithub",
