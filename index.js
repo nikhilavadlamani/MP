@@ -143,8 +143,8 @@ const myDetails = {
     contact: "your.email@example.com",
     Phone No:- "+1 3304123013"
     socialLinks: {
-        linkedin: "https://www.linkedin.com/in/satyamouli",
-        github: "https://github.com/yourgithub",
+        linkedin: "https://www.linkedin.com/in/nikhila-vadlamani03/",
+        github: "https://github.com/nikhilavadlamani",
     }
 };
 
